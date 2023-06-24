@@ -1,0 +1,122 @@
+*{
+      font-family: 標楷體 ;
+      position: relative;/*相對定位*/
+      
+    }
+    .page_title{
+        letter-spacing: 1px;
+        font-family:Didot, serif;
+        margin-top: 60px;
+        color: #8d7180;
+        background-color: #ffffff;
+        width: 100px;
+        height: 50px;
+        text-align:center;
+        border-radius: 50px;
+        margin-left: auto;
+        margin-right: auto;
+        
+      }
+    html,body{
+      width: 100% ; height: 100% ;
+      padding: 0px ; margin: 0px ;
+      
+    }
+    body{
+      background-image: linear-gradient(to top, #e1baba, #ddd1d5); ;
+      border-top: solid 20px #ffffff;
+      border-left: solid 20px #ffffff;
+      border-bottom: solid 20px #ffffff;
+      border-right: solid 20px #ffffff;
+      box-sizing: border-box
+      
+    }
+    .namecard{
+      width: 400px ; height:200px;
+      padding:20px ;
+      margin-left: auto ;
+      margin-right: auto ;
+      margin-top: 80px ;
+     
+      letter-spacing: 2px;
+      background-color: #eee;
+      color:rgba(0,0,0,0.5);
+      overflow: hidden;
+      border: solid 1px rgb(117, 113, 113);
+      border-radius: 6px;
+      box-shadow: 0px 25px 15px -10px rgba(0,0,0,0.3)
+      
+        
+      
+    }
+
+    
+    .namecard h2{
+      font-size: 25px;
+      
+    }
+    
+    .namecard span{
+        letter-spacing: 1px;
+        font-family:Didot, serif;
+        font-size: 12px;
+       
+    }
+    
+    .namecard h4{
+      font-size: 14px;
+      font-weight: 400;
+      color: #9f7f90
+      
+    }
+    
+    .namecard p{
+      font-size: 12px ;
+      font-weight: 200;
+      line-height: 22px ;
+      
+    }
+    .circle{
+      width: 100px; height: 100px;
+      border-radius: 100%;
+      position: absolute;
+      
+    }
+    .circle1{
+      right: 300px;
+      top: 210px;
+      background-color:#ba9fab ;
+      
+    }
+    .circle2{
+      width: 80px; height: 60px;
+      right: -30px;
+      top: -30px;
+      border: solid 3px #ba9fab;
+    }
+    .circle3{
+        width: 80px; height: 60px;
+        left: -30px;
+        top: -30px;
+        background-color:#ba9fab;
+    }
+    .circle4{
+        width: 100px; height: 60px;
+        right: -30px;
+        top: 210px;
+        border: solid 3px #ba9fab;
+    }
+
+      .image{
+        margin-top: -180px;
+        margin-left: 730px;
+    }
+    .ig
+    {
+        letter-spacing: 1px;
+        font-size: 12px ;
+        font-family:Didot, serif;
+        margin-top: -15px;
+        margin-left: 6px;
+        color: rgba(0,0,0,0.3);
+    }
